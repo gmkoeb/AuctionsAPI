@@ -1,4 +1,4 @@
-﻿using RocketseatAuction.API.Enums
+﻿using RocketseatAuction.API.Enums;
 using System.ComponentModel.DataAnnotations.Schema;
 namespace RocketseatAuction.API.Entities;
 
